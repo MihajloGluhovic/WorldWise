@@ -25,40 +25,6 @@
       "id": "17806751"
     },
     {
-      "cityName": "Berlin",
-      "country": "Germany",
-      "emoji": "🇩🇪",
-      "date": "2027-02-12T09:24:11.863Z",
-      "notes": "Amazing 😃",
-      "position": {
-        "lat": 52.53586782505711,
-        "lng": 13.376933665713324
-      },
-      "id": "98443197"
-    },
-    {
-      "id": "128f",
-      "cityName": "Castello de la Plana",
-      "emoji": "🇪🇸",
-      "date": "2025-06-25T15:50:50.739Z",
-      "notes": "",
-      "position": {
-        "lat": "40.00579073784958",
-        "lng": "-0.05990982055664063"
-      }
-    },
-    {
-      "id": "9b73",
-      "cityName": "Zaragoza",
-      "emoji": "🇪🇸",
-      "date": "2025-06-25T15:52:06.608Z",
-      "notes": "",
-      "position": {
-        "lat": "41.599013054830245",
-        "lng": "-0.7690429687500001"
-      }
-    },
-    {
       "id": "144b",
       "cityName": "Boissy-Saint-Leger",
       "emoji": "🇫🇷",
@@ -89,17 +55,6 @@
       "position": {
         "lat": "23.885837699862005",
         "lng": "42.890625"
-      }
-    },
-    {
-      "id": "d74f",
-      "cityName": "les Escaldes",
-      "emoji": "🇦🇩",
-      "date": "2025-06-25T16:04:40.870Z",
-      "notes": "dwadsadw",
-      "position": {
-        "lat": "42.48019996901214",
-        "lng": "1.5820312500000002"
       }
     },
     {
